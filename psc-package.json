@@ -1,0 +1,23 @@
+{
+  "name": "advent",
+  "set": "psc-0.12.1",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "arrays",
+    "console",
+    "effect",
+    "either",
+    "foldable-traversable",
+    "integers",
+    "lists",
+    "maybe",
+    "node-buffer",
+    "node-fs",
+    "ordered-collections",
+    "pairs",
+    "parsing",
+    "prelude",
+    "psci-support",
+    "strings"
+  ]
+}
